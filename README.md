@@ -1,2 +1,3 @@
 # HP20s-programmes
-Programmes et logiciel pour hp20s.
+Programmes pour hp20s.
+Chaque fichier présente un programme différent. Vous trouverez la descritpion du programme, les lignes de commandes à entrer sur la calculatrice et un exemple du fonctionnement.
